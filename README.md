@@ -2,7 +2,7 @@
 
 ## Background
 
-This post explores some of the architectural decisions of our front-end application at Pellucid Analytics. You can sneak peek our application [here](http://www.finovate.com/spring14vid/pellucid.html). 
+This post explores some architectural decisions of our front-end application at Pellucid Analytics. You can sneak peek our application [here](http://www.finovate.com/spring14vid/pellucid.html). 
 
 Our front-end is a complex single-page web-application (SPA) supported in all major browsers and also packaged as a native application on the iPad (using Cordova). Some of the core requirements of our application include:
 
