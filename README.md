@@ -1,8 +1,8 @@
-## Front-end Architecture of the Pellucid's web/ipad Application
+## Front-end Architecture of the [Pellucid's](http://www.pellucid.com) web/ipad Application
 
 ## Background
 
-This post explores some architectural decisions of our front-end application at Pellucid Analytics. You can sneak peek our application [here](http://www.finovate.com/spring14vid/pellucid.html). 
+This post explores some architectural decisions of our front-end application at [Pellucid Analytics](http://www.pellucid.com). You can sneak peek our application [here](http://www.finovate.com/spring14vid/pellucid.html). 
 
 Our front-end is a complex single-page web-application (SPA) supported in all major browsers and also packaged as a native application on the iPad (using Cordova). Some of the core requirements of our application include:
 
