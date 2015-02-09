@@ -2,6 +2,8 @@
 
 ## Background
 
+This post explores some of the architectural decisions of our front-end application at Pellucid Analytics. You can sneak peek our application [here](http://www.finovate.com/spring14vid/pellucid.html). 
+
 Our front-end is a complex single-page web-application (SPA) supported in all major browsers and also packaged as a native application on the iPad (using Cordova). Some of the core requirements of our application include:
 
 * iPad app must feel and respond like a native app.
@@ -251,7 +253,7 @@ We still use regular broad-casted events in some specific scenarios but in the c
 
 ## Conclusion
 
-I think, we came far with the choices we've made and are pretty happy with the result so far. We are adding lots of new functionalities as per our business needs without much changes to the underlying architecture. You can sneak peek our application [here](http://www.finovate.com/spring14vid/pellucid.html).
+I think, we came far with the choices we've made and are pretty happy with the result so far. We are adding lots of new functionalities as per our business needs without much changes to the underlying architecture.
 
 If we had to rewrite the entire application again with the choices we have now, we might probably leverage a framework like [React](http://io.pellucid.com/video/fsb-building-user-interfaces-with-react).
 
