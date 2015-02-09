@@ -1,4 +1,4 @@
-Front End Architecture of the Pellucid Analytics's Web/ipad Application
+## Front-end Architecture of the Pellucid's web/ipad Application
 
 ## Background
 
